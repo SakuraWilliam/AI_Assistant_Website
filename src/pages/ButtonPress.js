@@ -22,7 +22,7 @@ import "../App.css";
 const ButtonPress = () => {
   // CONFIG YOU WILL EDIT:
   // Choose provider: "chatgpt" | "claude" | "gemini"
-  const aiProvider = "gemini";
+  const aiProvider = "claude";
 
   // ----------------------------
   // LOGGING STATE (what we save)
